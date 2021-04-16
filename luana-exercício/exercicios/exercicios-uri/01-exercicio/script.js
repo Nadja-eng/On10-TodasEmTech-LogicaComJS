@@ -1,7 +1,7 @@
 // [Exercício 01](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038) 
 let codigoDoProduto = parseInt(prompt("Qual lanche desejado"));
 let quantidadeDoProduto = parseInt(prompt("Quantos deseja?"));
-let valorTotal = 0;
+//let valorTotal = 0;
 
 
 if (codigoDoProduto === 1) {
